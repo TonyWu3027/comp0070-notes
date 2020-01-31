@@ -98,7 +98,7 @@ FUNCTION BC(n,k) RETURNS INT
     -   $L[i,j] = w$, where $w$ is the weight (cost, distance) of arc $(i,j)$
     -   $L[i,j = \infty$  if no arc $(i,j)$
 
-![截屏2019-10-23下午1.26.13](resources/截屏2019-10-23下午1.26.13.png)
+![截屏2019-10-23下午1.26.13](../resources/截屏2019-10-23下午1.26.13.png)
 
 ### Output
 
@@ -141,7 +141,7 @@ FUNCTION FloydPath(L[1,...,n,1,...,n]) RETURNS ARRAY OF ARRAY OF INT
 				
 ```
 
-![截屏2019-10-24下午2.56.01](resources/截屏2019-10-24下午2.56.01.png)
+![截屏2019-10-24下午2.56.01](../resources/截屏2019-10-24下午2.56.01.png)
 
 ## Warshall's Algorithm
 

@@ -41,15 +41,15 @@ FUNCTION DepthFirstSearch(v)
 
 ### Example 1
 
-![截屏2019-10-24下午3.26.04](resources/截屏2019-10-24下午3.26.04.png)
+![截屏2019-10-24下午3.26.04](../resources/截屏2019-10-24下午3.26.04.png)
 
-![截屏2019-10-24下午3.27.52](/Users/tonywu/Desktop/Academic Affairs/COMP0070 Algorithmics/resources/截屏2019-10-24下午3.27.52.png)
+![截屏2019-10-24下午3.27.52](../resources/截屏2019-10-24下午3.27.52.png)
 
 ### Example 2: Directed Graph
 
-![截屏2019-10-24下午3.29.06](resources/截屏2019-10-24下午3.29.06.png)
+![截屏2019-10-24下午3.29.06](../resources/截屏2019-10-24下午3.29.06.png)
 
-![截屏2019-10-24下午3.29.06](resources/截屏2019-10-24下午3.29.13.png)
+![截屏2019-10-24下午3.29.06](../resources/截屏2019-10-24下午3.29.13.png)
 
 ## Comparing Depth-First Search and Breadth-First Search
 
@@ -76,11 +76,11 @@ PROCEDURE Search2(G)
 			DepthFirstSearch2(v)
 ```
 
-![截屏2019-10-28下午2.31.14](resources/截屏2019-10-28下午2.31.14.png)
+![截屏2019-10-28下午2.31.14](../resources/截屏2019-10-28下午2.31.14.png)
 
 ## Breadth-First Search
 
-![截屏2019-10-28下午2.33.36](resources/截屏2019-10-28下午2.33.36.png)
+![截屏2019-10-28下午2.33.36](../resources/截屏2019-10-28下午2.33.36.png)
 
 ### Pseudocode
 
@@ -105,4 +105,4 @@ PROCEDURE Search3(G)
 			BreadthFirstSearch(v)
 ```
 
-![截屏2019-10-28下午2.41.28](resources/截屏2019-10-28下午2.41.28.png)
+![截屏2019-10-28下午2.41.28](../resources/截屏2019-10-28下午2.41.28.png)

@@ -112,7 +112,7 @@ PROCEDURE QuickSort(T[i:j])
 		QuickSort(T[l+1:j])
 ```
 
-***Note that*** -  the `pivot` procedure here, and in the following slides, involves a more complex method for re-insertion at the end of the array.![屏幕快照 2019-10-17 下午3.10.48](resources/屏幕快照 2019-10-17 下午3.10.48.png)
+***Note that*** -  the `pivot` procedure here, and in the following slides, involves a more complex method for re-insertion at the end of the array.![屏幕快照 2019-10-17 下午3.10.48](../resources/屏幕快照 2019-10-17 下午3.10.48.png)
 
 ### Python Code
 

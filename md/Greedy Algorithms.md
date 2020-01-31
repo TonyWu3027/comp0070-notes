@@ -101,7 +101,7 @@ following arrays.
 
 The nodes of the graph are numbered 1 to n and a symmetric matrix $L$ gives the cost of each arc, with $L[i , j ] = \infty$  is the arc between `i` and `j` does not exist.
 
-![屏幕快照 2019-10-14 上午12.24.03](resources/屏幕快照 2019-10-14 上午12.24.03.png)
+![屏幕快照 2019-10-14 上午12.24.03](../resources/屏幕快照 2019-10-14 上午12.24.03.png)
 
 ### Pseudocode for Lower-Level Algorithm
 
@@ -210,13 +210,13 @@ print("\n\n")
   - At each step, a node x is added to S whose distance from designated node is least.
   - At end, S contains all the nodes.
 
-![屏幕快照 2019-10-14 上午10.09.38](resources/屏幕快照 2019-10-14 上午10.09.38.png)
+![屏幕快照 2019-10-14 上午10.09.38](../resources/屏幕快照 2019-10-14 上午10.09.38.png)
 
 ### Adjacencies Matrix
 
 The nodes of the graph are numbered $1$ to $n$ and a matrix $L$ gives the cost of each arc, with $L[i , j ] = \infty$ is the arc between $i$ and $j$ does not exist.
 
-![屏幕快照 2019-10-14 上午10.13.09](resources/屏幕快照 2019-10-14 上午10.13.09.png)
+![屏幕快照 2019-10-14 上午10.13.09](../resources/屏幕快照 2019-10-14 上午10.13.09.png)
 
 - A path is special if all intermediate nodes along the path belong to partial solution `S`
 - An array `D` contains the cost of the shortest special path to each node from the source (i.e. the designated node).
@@ -299,7 +299,7 @@ Many problems exist for which there is no greedy algorithm that provides an opti
 
 > A salesperson travelling all the cities, a part from the starting points, no more than once. Find the path with the lowest cost.
 
-![屏幕快照 2019-10-14 上午10.40.05](resources/屏幕快照 2019-10-14 上午10.40.05.png)
+![屏幕快照 2019-10-14 上午10.40.05](../resources/屏幕快照 2019-10-14 上午10.40.05.png)
 
 ### Greedy Algorithm Solution
 
@@ -311,4 +311,4 @@ Take the shortest edge available with two constraints:
 
 ### Cheapest Route
 
-![屏幕快照 2019-10-14 上午10.45.49](resources/屏幕快照 2019-10-14 上午10.45.49.png)
+![屏幕快照 2019-10-14 上午10.45.49](../resources/屏幕快照 2019-10-14 上午10.45.49.png)
